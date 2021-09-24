@@ -1,0 +1,23 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  color: grey;
+}
+#primero p {
+  color: #6da5dd;
+}
+a {
+  color: orangered;
+}
+#primero em {
+  background-color: #fff3d4;
+  color: blue;
+}
+em.especial {
+  color: yellow;
+  background: black;
+}
+.normal span {
+  font-weight: bold;
+}
